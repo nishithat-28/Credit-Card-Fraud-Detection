@@ -3,8 +3,7 @@
 ## 📝 Overview
 This project implements a machine learning model to detect fraudulent transactions in credit card datasets. It uses various Decision Tree as the classification algorithms to identify anomalies and distinguish between legitimate and fraudulent transactions.
 
-
-
+<br>
 ## ✨ Features
 - 🔍 **Data Preprocessing**: Clean and prepare data for analysis.
 - 📊 **Exploratory Data Analysis (EDA)**: Visualize and understand the dataset.
@@ -20,12 +19,11 @@ This project implements a machine learning model to detect fraudulent transactio
   Access the web app at `http://localhost:5000`.
 
 
-
 ## 📂 Dataset
 The dataset contains transactions made by credit cards, including both fraudulent and legitimate transactions.   
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.    
 
-Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  
+📥 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  
 
 - **Attributes**: 
   -  `Time`: Seconds elapsed between this transaction and the first transaction.
