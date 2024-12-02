@@ -3,7 +3,8 @@
 ## 📝 Overview
 This project implements a machine learning model to detect fraudulent transactions in credit card datasets. It uses various Decision Tree as the classification algorithms to identify anomalies and distinguish between legitimate and fraudulent transactions.
 
-<br>
+
+
 ## ✨ Features
 - 🔍 **Data Preprocessing**: Clean and prepare data for analysis.
 - 📊 **Exploratory Data Analysis (EDA)**: Visualize and understand the dataset.
